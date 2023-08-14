@@ -1,3 +1,3 @@
 for (let i = 0; i < 100; i++) {
-    console.log(i , "serial no");
+    console.log(i , "main serial no");
 }
